@@ -1,2 +1,2 @@
 # ColorItems
-ColorItems, a mod for Terraria using tModLoader
+some mod lol
